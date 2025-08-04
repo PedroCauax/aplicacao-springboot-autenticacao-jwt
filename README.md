@@ -11,7 +11,7 @@ Aplicação Spring Boot para cadastro e autenticação de usuários utilizando J
 ## Instalação
 1. Clone o repositório:
    ```
-   git clone [https://github.com/PedroCauax/springboot-jwt-auth-app.git](https://github.com/PedroCauax/aplicacao-springboot-autenticacao-jwt.git)
+   git clone (https://github.com/PedroCauax/aplicacao-springboot-autenticacao-jwt.git)
    ```
 2. Configure o banco de dados em `application.properties`.
 3. Execute:
